@@ -1,4 +1,4 @@
- {
+{
     "title": "",
     "untitled": "Senza titolo",
     "modified": "Modificato",
@@ -6,16 +6,13 @@
     "read-only-file": "Sola lettura",
     "experimental": "Sperimentale",
     "placeholder": "Che storia vuoi scrivere oggi?",
-
     "footer": {
         "lines": "righe",
         "words": "parole"
     },
-
     "toc": {
         "name": "Indice"
     },
-
     "share": "Condividi",
     "state": {
         "label": "Elementi",
@@ -27,11 +24,10 @@
         "code": "Codice",
         "blockquote": "Blocco citazione"
     },
-
     "config": {
         "toc": "Mostra indice",
         "outline": "Mostra struttura documento",
-        "fullscreen": "Attiva/Disattiva pieno schermo",
+        "fullscreen": "Attiva/Disattiva schermo intero",
         "tab": "Profondità rientro",
         "usetab": "Rientra usando tabulazione",
         "experimental": "Sperimentale",
@@ -44,22 +40,19 @@
         },
         "md-help": "Mostra la guida sintassi"
     },
-
     "promotion": {
         "desc": "Per favore, condividi!"
     },
-
     "donate": {
         "label": "Dona",
         "title": "Dona per permettere di proseguire la programmazione!",
         "desc": "Se trovi utile questo programma, dona per consentire di proseguirne la programmazione. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>Dona</a>"
     },
-
     "email": {
         "title": "Invia email",
         "subject": "Inserisci soggetto",
         "to": "A",
-        "from": "DA",
+        "from": "Da",
         "reciver": "Inserisci l'indirizzo email del destinatario",
         "html": "HTML",
         "markdown": "Markdown",
@@ -67,16 +60,15 @@
         "send": "Invia",
         "sent": "Spedito",
         "remember": "Ricorda email",
-        "password": "Parola d'ordine",
-        "secure": "La parola d'ordine non sarà salvata.",
-        "yours": "Inserisci il tuo indriizzo Gmail",
+        "password": "Password",
+        "secure": "La password non sarà salvata.",
+        "yours": "Inserisci il tuo indirizzo Gmail",
         "evernote": "Evernote",
         "tumblr": "Tumblr",
-        "invalid-account": "Nome utente o parola d'ordine non validi."
+        "invalid-account": "Nome utente o password non validi."
     },
-
     "dialog": {
-        "save-change": "Vuoi salvare le modifiche apportate a questo documento?",
+        "save-change": "Vuoi salvare le modifiche a questo documento?",
         "cancel": "Annulla",
         "dont-save": "Non salvare",
         "save": "Salva",
@@ -84,7 +76,6 @@
         "no": "No",
         "changed-file": "è stato modificato da un'altra applicazione. <br/>Vuoi aggiornarlo?"
     },
-
     "upgrade": {
         "uptodate": "Hai l'ultima versione!",
         "message": "Cerchi l'ultima versione?",

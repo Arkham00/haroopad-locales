@@ -1,4 +1,4 @@
- {
+{
     "title": "Preferenze",
     "ok": "OK",
     "no": "No",
@@ -10,7 +10,6 @@
     "updating": "Aggiornamento in corso",
     "edit": "Modifica",
     "reload": "Ricarica",
-
     "system": {
         "language": {
             "update": {
@@ -20,7 +19,6 @@
             }
         }
     },
-
     "tab": {
         "general": "Generale",
         "editor": "Edizione",
@@ -31,7 +29,6 @@
         "about": "Informazioni",
         "backup": "Salvataggio"
     },
-
     "general": {
         "general": "Generale",
         "enableAutoComplete": "Consenti l'autocompletamento Markdown",
@@ -39,7 +36,6 @@
         "enableSyncScroll": "Consenti lo scorrimento simultaneo",
         "enableLastFileRestore": "Consenti il ripristino dell'ultimo documento"
     },
-
     "editor": {
         "general": "Generale",
         "spaces": "Spazi",
@@ -52,15 +48,13 @@
         "display-active-line": "Mostra la riga attiva",
         "use-markdown-folding": "Usa la contrazione Markdown"
     },
-
     "viewer": {
         "general": "Generale",
         "themes": "Tema",
         "font-size": "Taglia carattere",
         "user-style": "Il tuo stile",
-        "clickable-link": "Rendi i rinvii attivi nell'anteprima"
+        "clickable-link": "Link attivi nell'anteprima"
     },
-
     "custom": {
         "themes": "Generale",
         "reload": "Ricarica",
@@ -68,19 +62,17 @@
         "select-theme": "Seleziona il tuo tema",
         "description": "Questo tema si applica ad anteprima, esportazione HTML/PDF ed invio email (Evernote, Tumblr)."
     },
-
     "code": {
         "general": "Generale",
         "themes": "Tema",
         "show-line-number": "Mostra il numero riga con la sottolineatura della sintassi"
     },
-
     "markdown": {
-        "enable-gfm": "Usa Github Flavored Markdown",
+        "enable-gfm": "Usa 'Github Flavored' Markdown",
         "etc": "Opzioni aggiuntive",
         "sanitize-desc": "Ignora ogni HTML inserito.",
-        "gfm-line-breaks": "Usa rientro di Github Flavored Markdown",
-        "gfm-table": "Usa la tabella di Github Flavored Markdown",
+        "gfm-line-breaks": "Usa rientro di 'Github Flavored' Markdown",
+        "gfm-table": "Usa la tabella di 'Github Flavored' Markdown",
         "smarty-list": "Usa le smart-list del Markdown",
         "smarty-pants": "Usa interpunzione tipografica \"intelligente\" per elementi come virgolette e trattini",
         "enable-math": "Usa espressioni matematiche",
@@ -88,7 +80,6 @@
         "enable-dollar-sign": "Usa un singolo simbolo $ per espressioni in linea (di norma: $$$)",
         "extra-footnotes": "Usa note a piè di pagina"
     },
-
     "about": {
         "donate": "Dona",
         "mean": "<strong>Haroo</strong> significa \"Un giorno\" in Coreano",
@@ -100,14 +91,13 @@
         "description": "Haroopad <small>The next document process</small>",
         "donate-msg": "Se ti piace haroopad, dona per aiutarlo a crescere"
     },
-
     "backup": {
-        "title": "Importa ed esporta le impostazioni...",
+        "title": "Importa ed esporta le impostazioni ...",
         "import": "Importa impostazioni",
         "export": "Esporta impostazioni",
         "import-done": "Riavvio necessario",
         "import-done-msg": "Le importazioni sono state importate con esito positivo. Devi riavviare Haroopad per ricaricare le impostazioni.<br/>Riavvio Haroopad?",
         "export-done": "Esportazione conclusa!",
-        "export-done-msg": "Le tue impostazioni sono state espostate con esito positivo..<br/>Puoi importare le impostazioni tramite \"<b>Preferenze > Salvaguardia > Importa impostazioni</b>\""
+        "export-done-msg": "Le tue impostazioni sono state esportate con esito positivo.<br/>Puoi importare le impostazioni tramite \"<b>Preferenze > Backup > Importa impostazioni</b>\""
     }
 }

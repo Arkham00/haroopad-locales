@@ -2,16 +2,16 @@
     "file": {
         "name": "File",
         "new": "Nuovo",
-        "open": "Apri...",
+        "open": "Apri ...",
         "open-recent": "File recenti",
         "clear-all": "Cancella tutto",
         "save": "Salva",
-        "save-as": "Salva come...",
-        "save-to-template": "Save to Template",
+        "save-as": "Salva come ...",
+        "save-to-template": "Salva come Modello",
         "close": "Chiudi",
         "sending": "Invia",
         "sending-email": "Email",
-        "exports": "Esporta...",
+        "exports": "Esporta ...",
         "export-to-file": "Salva documento",
         "export-to-html": "HTML",
         "export-to-png": "PNG",
@@ -19,27 +19,27 @@
         "copy-to-clipboard": "Copia negli appunti",
         "plain-html": "HTML",
         "styled-html": "HTML con stili",
-        "print": "Stampa...",
+        "print": "Stampa ...",
         "preferences": "Preferenze",
         "quit": "Esci"
     },
     "find": {
         "name": "Cerca",
-        "find": "Trova...",
+        "find": "Trova ...",
         "find-next": "Trova successivo",
         "find-previous": "Trova precedente",
-        "replace": "Sostituisci...",
+        "replace": "Sostituisci ...",
         "replace-all": "Sostituisci tutti"
     },
     "view": {
         "name": "Visualizza",
         "mode": "Modalità",
-        "mode-e-v": "Modifica : Anteprima",
-        "mode-v-e": "Anteprima : Modifica",
-        "mode-editor": "Modifica",
-        "mode-viewer": "Anteprima",
+        "mode-e-v": "Modifica sx : Anteprima dx",
+        "mode-v-e": "Anteprima sx: Modifica dx",
+        "mode-editor": "solo Modifica",
+        "mode-viewer": "solo Anteprima",
         "toggle-live-view": "Attiva/Disattiva anteprima automatica",
-        "toggle-markdown-help": "Visualizza/Nascondi aiuti sintattici Markdown",
+        "toggle-markdown-help": "Visualizza/Nascondi lista sintassi Markdown",
         "toggle-line-number": "Attiva/Disattiva numerazione righe",
         "live-view-width-plus-5": "Larghezza anteprima automatica +5%",
         "live-view-width-minus-5": "Larghezza anteprima automatica -5%",
@@ -55,13 +55,13 @@
         "enter-full-screen": "Pieno schermo",
         "enter-presentation": "Modalità presentazione",
         "editor": {
-            "theme": "Tema editor...",
-            "theme-user": "Tema editor utente..."
+            "theme": "Tema editor ...",
+            "theme-user": "Tema editor utente ..."
         },
         "viewer": {
-            "theme": "Tema anteprima...",
-            "theme-code": "Tema anteprima codice...",
-            "theme-user": "Tema anteprima utente..."
+            "theme": "Tema anteprima ...",
+            "theme-code": "Tema anteprima codice ...",
+            "theme-user": "Tema anteprima utente ..."
         }
     },
     "insert": {
@@ -70,8 +70,8 @@
         "filename": "Nome documento",
         "copy-html": "Copia HTML",
         "header": "Intestazione",
-        "bold": "Forte",
-        "italic": "Enfasi",
+        "bold": "Grassetto",
+        "italic": "Corsivo",
         "inline-code": "Codice in linea",
         "image": "Immagine",
         "link": "Link",
@@ -80,7 +80,7 @@
         "unordered-list": "Lista puntata",
         "section-break": "Interruzione di sezione",
         "page-break": "Interruzione di pagina",
-        "sentence-break": "Interruzione di periodo",
+        "sentence-break": "Interruzione di paragrafo",
         "fenced-code": "Sezione di codice",
         "strikethrough": "Testo cancellato",
         "task": "Elenco",
@@ -97,10 +97,10 @@
         "embed-video": "Includi video",
         "embed-audio": "Includi audio",
         "embed-image": "Includi immagine",
-        "embed-other": "Includi altro..."
+        "embed-other": "Includi altro ..."
     },
     "tool": {
-        "name": "Strumento"
+        "name": "Strumenti"
     },
     "window": {
         "name": "Finestra",
@@ -119,9 +119,8 @@
         "user-echo": "User Echo",
         "twitter": "Twitter",
         "check-for-update": "Controlla gli aggiornamenti",
-        "boost-up-donate": "Accellera! Dona"
+        "boost-up-donate": "Dona!"
     },
-
     "edit": {
         "name": "Modifica",
         "undo": "Annulla",
